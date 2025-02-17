@@ -27,11 +27,11 @@ This project aims to develop a secure method for hiding confidential data within
 ## Usage
 1. **Prepare your image:**
     - Place the image you want to use in the project directory.
-    - Replace the image path in the code (`mypic.jpg`) with your image file name.
+    - Replace the image path in the code (`mycat.jpg`) with your image file name.
 
 2. **Run the script:**
     ```sh
-    python steganography.py
+    python stego.py
     ```
 
 3. **Enter your secret message and passcode:**
